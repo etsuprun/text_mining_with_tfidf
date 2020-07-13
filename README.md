@@ -25,5 +25,5 @@ This script generates an `idf` dictionary for the [corpus of Hillary Clinton's e
 
 Takes a text file with an input and generates a dictionary of the tokens in the email, along with their corresponding tf–idf scores, based on the Clinton email corpus.
 
-`$ python get_idfs.py sample_emails/aws.txt
+`$ python get_idfs.py sample_emails/aws.txt`
 
